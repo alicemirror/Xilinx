@@ -1,3 +1,6 @@
+-- collection of functions used by Catalin Baetoniu for The Art of FPGA Design. 
+-- https://www.element14.com/community/groups/fpga-group/blog/2018/07/11/the-art-of-fpga-design
+
 library IEEE; 
 use IEEE.STD_LOGIC_1164.all; 
 use IEEE.NUMERIC_STD.all; 
